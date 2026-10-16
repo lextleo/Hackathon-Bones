@@ -25,15 +25,18 @@ At the end of the demo, a judge should be able to see:
 ## Scope
 
 ### Must ship
+
 - [ ] One complete end-to-end path
 - [ ] A visible result with realistic sample data
 - [ ] Clear setup and a reproducible demo
 
 ### Could ship
-- [ ] 
+
+- [ ]
 
 ### Explicitly not building
-- 
+
+-
 
 ## Success criteria
 

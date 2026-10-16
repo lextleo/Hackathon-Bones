@@ -80,6 +80,7 @@ Get one user action flowing all the way to a visible result before polishing ind
   3. **Integrate:** connect real services, devices, models, and data only after the path works.
   4. **Freeze:** stop adding features early enough to test the demo from a fresh start.
   5. **Tell the story:** show the problem, the product working, the evidence, and the next step.
+
 </details>
 
 Use [`docs/HACKATHON_RUNBOOK.md`](docs/HACKATHON_RUNBOOK.md) for the fuller checklist and [`docs/DEMO_SCRIPT.md`](docs/DEMO_SCRIPT.md) to plan the final walkthrough.
@@ -125,7 +126,7 @@ Use [`docs/HACKATHON_RUNBOOK.md`](docs/HACKATHON_RUNBOOK.md) for the fuller chec
 
 Once the structure is ready, open **Settings → General** for this repository and enable **Template repository**. Then new projects can be created from the template instead of copying files manually. See GitHub's [template repository guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository).
 
-## Build something worth showing.
+## Build something worth showing
 
 This repo is intentionally unfinished: the next project supplies the actual idea, stack, and implementation. Keep the scaffolding lightweight—and spend the saved time making the demo real.
 
