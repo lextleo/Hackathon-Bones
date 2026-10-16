@@ -1,0 +1,59 @@
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*service-account*.json
+secrets/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# JavaScript / TypeScript
+node_modules/
+dist/
+build/
+.next/
+.nuxt/
+coverage/
+.nyc_output/
+
+# Python / notebooks
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.python-version.local
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Build and generated artifacts
+out/
+target/
+tmp/
+temp/
+*.log
+
+# Data and model outputs: keep small, intentional samples only
+# Remove these rules if the project intentionally versions its datasets/models.
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+ml/models/
+
+# Hardware / simulation generated files (review before committing)
+*.elf
+*.hex
+*.bin
+*.uf2
+*.bag
+*.db3
